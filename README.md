@@ -13,7 +13,7 @@ A detailed getting started guide can be found at [https://umami.is/docs/](https:
 - A server with Node.js version 12 or newer
 - A database. Umami supports [MySQL](https://www.mysql.com/) and [Postgresql](https://www.postgresql.org/) databases.
 
-### Install Yarn
+### Install yarn
 
 ```
 npm install -g yarn
